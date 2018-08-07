@@ -11,9 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cash-dom": "^2.3.3",
     "downloadjs": "^1.4.7",
     "geojson-bbox": "0.0.0",
     "geojson-random": "^0.4.0",
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "zepto": "^1.2.0"
   }
 }
